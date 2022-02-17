@@ -1,10 +1,10 @@
 ---
-title: Contact
-subtitle: Journal comes with a built-in contact form, that's free and easy to set up.
-description: A stunning personal blog Jekyll theme with an image-focused design.
-featured_image: /images/demo/demo-portrait.jpg
+title: Got something to say? 
+subtitle: I'm more than willing to listen. 
+description: This is the contact page to get in touch with the web developer, internet dude and computer programmer Justin Eller.
+featured_image: /images/contact.png
 ---
 
-{% include contact-form.html %}
+Shoot me an email through the form below. Or reach out on [Twitter @Ellery_Justin](https://twitter.com/Ellery_Justin).
 
-We've made a contact form that you can use with [Formspree](https://formspree.io/) to handle up to 50 submissions per month for free. You could also easily switch out the end-point to use another contact form service.
+{% include contact-form.html %}

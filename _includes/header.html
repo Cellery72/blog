@@ -1,12 +1,8 @@
 <header class="header">
-
 	<div class="header-image header-image--on" style="background-image: url({{ page.featured_image }});"></div>
 	<div class="header-image"></div>
-
 	<div class="header-overlay"></div>
-
 	<div class="header__content">
-
 		{% if site.data.settings.header_settings.logo_image %}
 		<a href="/" class="header__logo">
 			<img src="{{ site.data.settings.header_settings.logo_image }}" class="header__logo__img">
@@ -16,9 +12,7 @@
 			{{ site.data.settings.basic_settings.site_title }}
 		</a>
 		{% endif %}
-
 		<p class="header__tagline">{{ site.data.settings.basic_settings.site_tagline }}</p>
-
 		<div class="menu">
 			<div class="menu__toggle js-menu-toggle">
 				<div class="menu__toggle__icon"><span></span></div>
@@ -34,7 +28,5 @@
 				{% include socials.html %}
 			</div>
 		</div>
-
 	</div>
-
 </header>

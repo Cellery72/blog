@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Justin Ellery
-  site_tagline: A stunning personal blog Jekyll theme with an image-focused design.
+  site_tagline: Another internet person.
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -12,8 +12,6 @@ menu_settings:
   menu_items:
     - title: 'Latest'
       url: '/'
-    - title: 'Projects'
-      url: '/projects/'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
@@ -32,7 +30,8 @@ social_settings:
   twitter_url: 'https://twitter.com/Ellery_Justin'
   github_url: 'http://github.com/cellery72'
   linkedin_url: 'https://www.linkedin.com/in/jellery/'
-  instagram_url: 'https://www.instagram.com/cellery72/'
+  strava_url: 'https://www.strava.com/athletes/23713377'
+  y-combinator_url: 'https://news.ycombinator.com/user?id=ng-user'
   youtube_url: ''
   google-plus_url: ''
   vimeo_url: ''
@@ -153,7 +152,7 @@ font_settings:
 
 advanced_settings:
   ajax_loading: true
-  analytics_code: ""
+  analytics_code: true
   custom_styles: ""
   header_js: ""
   footer_js: ""
