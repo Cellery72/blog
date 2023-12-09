@@ -7,9 +7,6 @@ collections:
   posts:
     output: true
     permalink: /blog/:slug
-  projects:
-    output: true
-    permalink: /project/:slug
 
 defaults:
   -
