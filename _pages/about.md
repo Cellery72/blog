@@ -1,34 +1,16 @@
 ---
-title: Who am I
-subtitle: A stunning personal blog Jekyll theme with an image-focused design.
-description: A stunning personal blog Jekyll theme with an image-focused design.
-featured_image: /images/swimming.png
+title: Who is Justin?
+subtitle: Just a man, exploring the world, one bike ride at a time.
+description: Just a man, exploring the world, one bike ride at a time.
+featured_image: /images/cycling.jpg
 ---
+Hi! My name is **Justin Ellery**, I'm an IT professional working in the Public Safety sector, based in Ontario, Canada.
 
 
-## Features
+I love to play sports, including hockey, golf and cycling. I enjoy staying active and maintaining a healthy lifestyle, I would love to motivate or encourage that for even just one person out there! 
 
-Journal is packed with powerful features to showcase your work:
 
-* Beautiful, minimal design
-* Fixed sidebar images that animate as you browse
-* Single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio/projects post type to show your work
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+My hope for this website is to share my experiences and insights with others, while continuing to learn and grow every single day myself.
 
-## Get Index
 
-Journal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $39.
-
-<a href="https://jekyllthemes.io/theme/journal-personal-jekyll-theme" class="button button--large">Get This Theme</a>
+I look forward to connecting with like-minded individuals, please feel free to contact me on [Twitter](https://twitter.com/Ellery_Justin), or give me a follow on [Strava](https://www.strava.com/athletes/23713377) to see what I've been up to!
