@@ -5,6 +5,4 @@ description: This is the contact page to get in touch with the web developer, in
 featured_image: /images/contact.png
 ---
 
-Shoot me an email through the form below. Or reach out on [Twitter @Ellery_Justin](https://twitter.com/Ellery_Justin).
-
-{% include contact-form.html %}
+Reach out on Twitter! [@Ellery_Justin](https://twitter.com/Ellery_Justin).
