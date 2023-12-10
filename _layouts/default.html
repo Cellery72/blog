@@ -64,6 +64,9 @@
 	{{ site.data.settings.advanced_settings.header_js }}
 	{% endif %}
 
+	<!-- include Analytics JS -->
+	{% include analytics-code.html %}
+
 </head>
 
 <body class="loading{% if site.data.settings.advanced_settings.ajax_loading == true %} ajax-loading{% endif %}"
